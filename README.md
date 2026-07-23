@@ -45,27 +45,6 @@ A comprehensive collection of my **Machine Learning  notes**, **Python programmi
 
 ---
 
-## 📂 Repository Structure
-
-```
-Machine-Learning-With-Python/
-│
-├── notebooks/
-│   ├── Python_Basics.ipynb
-│   ├── NumPy.ipynb
-│   ├── Pandas.ipynb
-│   ├── Matplotlib.ipynb
-│   ├── Seaborn.ipynb
-│   ├── Data_Preprocessing.ipynb
-│   └── ...
-│
-├── datasets/
-├── images/
-├── README.md
-└── requirements.txt
-```
-
----
 
 ## 🎯 Objectives
 
