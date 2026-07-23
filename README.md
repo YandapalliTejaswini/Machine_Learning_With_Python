@@ -78,11 +78,6 @@ Machine-Learning-With-Python/
 ---
 
 
-
-
-
-This repository is intended for educational and learning purposes.
-
 ---
 
 ### ⭐ If you find this repository helpful, don't forget to Star ⭐ it!
